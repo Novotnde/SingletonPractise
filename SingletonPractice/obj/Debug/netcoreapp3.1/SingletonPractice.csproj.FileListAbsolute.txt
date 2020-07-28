@@ -1,0 +1,13 @@
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\obj\Debug\netcoreapp3.1\SingletonPractice.csprojAssemblyReference.cache
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\obj\Debug\netcoreapp3.1\SingletonPractice.AssemblyInfoInputs.cache
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\obj\Debug\netcoreapp3.1\SingletonPractice.AssemblyInfo.cs
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\obj\Debug\netcoreapp3.1\SingletonPractice.csproj.CoreCompileInputs.cache
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\bin\Debug\netcoreapp3.1\SingletonPractice.exe
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\bin\Debug\netcoreapp3.1\SingletonPractice.deps.json
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\bin\Debug\netcoreapp3.1\SingletonPractice.runtimeconfig.json
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\bin\Debug\netcoreapp3.1\SingletonPractice.runtimeconfig.dev.json
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\bin\Debug\netcoreapp3.1\SingletonPractice.dll
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\bin\Debug\netcoreapp3.1\SingletonPractice.pdb
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\obj\Debug\netcoreapp3.1\SingletonPractice.dll
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\obj\Debug\netcoreapp3.1\SingletonPractice.pdb
+C:\Users\novot\source\repos\SingletonPractice\SingletonPractice\obj\Debug\netcoreapp3.1\SingletonPractice.genruntimeconfig.cache

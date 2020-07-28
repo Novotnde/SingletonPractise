@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSR1lb/e7bhjQCfKot2D6JnNyU18ssojR20yvq+IZIfIldRSZulC8d9QP7uHfvLX+bRULOIOdZwON2ZOI2abVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\novot\\source\\repos\\SingletonPractice\\SingletonPractice\\SingletonPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\novot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
